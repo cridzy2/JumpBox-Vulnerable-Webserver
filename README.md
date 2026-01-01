@@ -1,4 +1,6 @@
-# 🕶️ JumpBox – Intentionally Vulnerable Ubuntu Web Application
+# 🕶️ JumpBox – Intentionally Vulnerable Apache Web Application
+
+![JumpBox Control Panel](assets/JumpBox.png)
 
 ## Overview
 
