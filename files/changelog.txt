@@ -1,0 +1,3 @@
+Changelog:
+- Added file viewer endpoint
+- Added basic UI improvements
