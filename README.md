@@ -78,5 +78,9 @@ It assumes:
 To use the project:
 
 ```bash
+cd /opt
 git clone https://github.com/nguyenbrandonm/Vulnerable-Webserver.git
 cd Vulnerable-Webserver
+chmod +x scripts/setup.sh
+sudo ./scripts/setup.sh
+
