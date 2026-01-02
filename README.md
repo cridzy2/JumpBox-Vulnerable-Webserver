@@ -23,7 +23,7 @@ Key characteristics:
 - Ubuntu Linux (assumed pre-installed and configured)
 - Apache with PHP support
 - Multiple intentionally insecure application endpoints
-- Sensitive backup artifact exposed via application logic
+- Sensitive backup artifact exposed via application logic (You will need to put this file in yourself, depending on your lab setup)
 
 Once compromised, the server represents an attacker-controlled **jump box** within the environment.
 
